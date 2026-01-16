@@ -46,7 +46,7 @@
       <td width="80">
         <img src="https://img.icons8.com/?size=100&id=24459&format=png&color=000000" height="30" />
       </td>
-      <td width="1000">
+      <td width="1000000">
         <strong>No que estou focado agora:</strong>
       </td>
     </tr>
