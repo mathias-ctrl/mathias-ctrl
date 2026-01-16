@@ -4,11 +4,11 @@
       <td align="left" width="540">
         <h1>Mathias Arruda | Backend Developer</h1>
       </td>
-      <td align="center" width="230">
+      <td align="center" width="1000">
         <a href="https://wa.me/5562999999999" target="_blank" rel="noopener noreferrer">
           <img src="https://img.shields.io/badge/WhatsApp-Conversar-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
         </a><br>
-  <div align="center" width="1000"> 
+  <div align="center"> 
     
     mathiasrebordao2020@gmail.com    
   </div>
