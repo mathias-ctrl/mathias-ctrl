@@ -1,4 +1,15 @@
-# Mathias Arruda | Backend Developer
+<table width="100%">
+  <tr>
+    <td align="left">
+      <h1>Mathias Arruda | Backend Developer</h1>
+    </td>
+    <td align="right">
+      <a href="https://wa.me/5562999999999" target="_blank">
+        <img src="https://img.shields.io/badge/WhatsApp-Conversar-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <div align="left">
   <table>
