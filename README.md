@@ -16,13 +16,14 @@
     </tr>
   </table>
 </div>
+
 <div align="left">
   <table width="800">
     <tr>
-      <td width="60">
+      <td width="80">
         <img src="https://img.icons8.com/?size=100&id=23309&format=png&color=000000" height="30" />
       </td>
-      <td width="740">
+      <td width="720">
         <strong>Sobre mim:</strong>
       </td>
     </tr>
@@ -36,14 +37,16 @@
     </tr>
   </table>
 </div>
+
 <br>
+
 <div align="left">
   <table width="800">
     <tr>
-      <td width="60">
+      <td width="80">
         <img src="https://img.icons8.com/?size=100&id=24459&format=png&color=000000" height="30" />
       </td>
-      <td width="740">
+      <td width="720">
         <strong>No que estou focado agora:</strong>
       </td>
     </tr>
@@ -58,9 +61,14 @@
     </tr>
   </table>
 </div>
+
 <br>
 
+###
+
 <h3 align="left">🛠 Language and tools</h3>
+
+###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="38" alt="html5 logo"  />
@@ -74,6 +82,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="38" alt="fastapi logo"  />
 </div>
 
+###
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=supabase" height="38" alt="supabase logo"  />
   <img width="14" />
@@ -84,9 +94,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="38" alt="redis logo"  />
 </div>
 
+###
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-plain.svg" height="38" alt="debian logo"  />
   <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="38" alt="vscode logo"  />
   <img width="14" />
   <img src="https://skillicons.dev/icons?i=postman" height="38" alt="postman logo"  />
+</div>
+
+###
