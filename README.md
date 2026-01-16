@@ -6,6 +6,9 @@
     <td align="right">
       <a href="https://wa.me/5562999999999" target="_blank">
         <img src="https://img.shields.io/badge/WhatsApp-Conversar-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+      </a><br>
+      <a href="mailto:mathiasrebordao2020@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-enviar_email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
       </a>
     </td>
   </tr>
@@ -99,12 +102,3 @@
 </div>
 
 ###
-
-<div align="left">
-  <a href="mailto:mathiasrebordao2020@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-mathiasrebordao2020%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://wa.me/5562999999999">
-    <img src="https://img.shields.io/badge/WhatsApp-Conversar-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-</div>
