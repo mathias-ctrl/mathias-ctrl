@@ -1,24 +1,43 @@
 # Mathias Arruda | Backend Developer
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="90" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=flat" height="90" alt="whatsapp logo"  />
+<div align="left">
+  <table>
+    <tr>
+      <td width="60">
+        <img src="https://img.icons8.com/?size=100&id=23309&format=png&color=000000" height="30" />
+      </td>
+      <td width="740">
+        <strong>Sobre mim:</strong>
+        <ul>
+          <li>Sou desenvolvedor backend focado em criar soluções práticas que automatizam processos e integram IA no dia a dia.</li>
+          <li>Gosto de transformar problemas complexos em sistemas simples e funcionais.</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
 </div>
 
-###
+<br>
 
-<h3 align="left">👋 Sobre Mim</h3>
+<div align="left">
+  <table>
+    <tr>
+      <td width="60">
+        <img src="https://img.icons8.com/?size=100&id=24459&format=png&color=000000" height="30" />
+      </td>
+      <td width="740">
+        <strong>No que estou focado agora:</strong>
+        <ul>
+          <li>Desenvolvendo pipelines de processamento documental com IA.</li>
+          <li>Automatizando workflows com ferramentas low-code/no-code.</li>
+          <li>Criando integrações entre diferentes APIs e serviços.</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
 
-Sou desenvolvedor backend focado em criar soluções práticas que automatizam processos e integram IA no dia a dia. Gosto de transformar problemas complexos em sistemas simples e funcionais.
-
-**🎯 No que estou focado agora:**
-- Desenvolvendo pipelines de processamento documental com IA
-- Automatizando workflows com ferramentas low-code/no-code
-- Criando integrações entre diferentes APIs e serviços
-
-###
-
-<p align="left">Sou desenvolvedor backend focado em criar soluções práticas que automatizam processos e integram IA no dia a dia. Gosto de transformar problemas complexos em sistemas simples e funcionais.</p>
+<br>
 
 ###
 
@@ -27,29 +46,46 @@ Sou desenvolvedor backend focado em criar soluções práticas que automatizam p
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="42" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="38" alt="html5 logo"  />
   <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="42" alt="css logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="38" alt="css logo"  />
   <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="42" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="38" alt="javascript logo"  />
   <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="38" alt="python logo"  />
   <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="42" alt="fastapi logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=supabase" height="42" alt="supabase logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="42" alt="postgresql logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="42" alt="mysql logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="42" alt="redis logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-plain.svg" height="42" alt="debian logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="42" alt="vscode logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=postman" height="42" alt="postman logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="38" alt="fastapi logo"  />
 </div>
 
 ###
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=supabase" height="38" alt="supabase logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="38" alt="postgresql logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="38" alt="mysql logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="38" alt="redis logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-plain.svg" height="38" alt="debian logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="38" alt="vscode logo"  />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=postman" height="38" alt="postman logo"  />
+</div>
+
+###
+
+<div align="left">
+  <a href="mailto:mathiasrebordao2020@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-mathiasrebordao2020%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://wa.me/5562999999999">
+    <img src="https://img.shields.io/badge/WhatsApp-Conversar-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+</div>
