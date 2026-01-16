@@ -3,7 +3,7 @@
     <td align="left">
       <h1>Mathias Arruda | Backend Developer</h1>
     </td>
-    <td align="right">
+    <td align="center" width="195">
       <a href="https://wa.me/5562999999999" target="_blank">
         <img src="https://img.shields.io/badge/WhatsApp-Conversar-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
       </a><br>
