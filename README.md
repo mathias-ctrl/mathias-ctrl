@@ -8,9 +8,9 @@
         <a href="https://wa.me/5562999999999" target="_blank" rel="noopener noreferrer">
           <img src="https://img.shields.io/badge/WhatsApp-Conversar-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
         </a><br>
-<div align="left"> 
+<div align="center"> 
   
-    mathiasrebordao2020@gmail.com
+    mathiasrebordao2020@gmail.com    
 </div>
       </td>
     </tr>
