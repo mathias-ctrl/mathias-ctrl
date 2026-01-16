@@ -1,4 +1,4 @@
-# Lucas Melo | Backend Developer
+# Mathias Arruda | Backend Developer
 
 <div align="center">
   <a href="https://linkedin.com/in/seu-linkedin" target="_blank">
@@ -17,23 +17,6 @@ Sou desenvolvedor backend focado em criar soluções práticas que automatizam p
 - Desenvolvendo pipelines de processamento documental com IA
 - Automatizando workflows com ferramentas low-code/no-code
 - Criando integrações entre diferentes APIs e serviços
-
-## 🚀 Projetos em Destaque
-
-### 📸 **FloatingScreenshotApp**
-Aplicativo desktop que captura telas e usa IA para extrair/analisar conteúdo. Perfeito para estudos e análise de conteúdo visual.
-
-**Stack:** Python • Tkinter • OpenAI • Processamento de Imagens
-
-### 📄 **Document Processing Pipeline**
-Sistema completo para processar, classificar e preparar documentos para busca inteligente. Ideal para gestão de conhecimento.
-
-**Stack:** FastAPI • Supabase • PostgreSQL • OpenAI • Mistral OCR
-
-### 🔄 **PDF to Images Converter**
-Conversor eficiente de PDF para imagens de alta qualidade, pronto para integração com outros sistemas.
-
-**Stack:** Python • PyMuPDF • Base64 Processing
 
 ## 🛠️ Stack Principal
 
@@ -60,23 +43,12 @@ Conversor eficiente de PDF para imagens de alta qualidade, pronto para integraç
   <img src="https://img.icons8.com/color/48/000000/docker.png" width="40" title="Docker" />
 </div>
 
-### **IA & Processamento**
-<div align="left">
-  <img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" width="40" title="AI/ML" />
-  <img src="https://img.icons8.com/color/48/000000/ocr.png" width="40" title="OCR" />
-  <img src="https://img.icons8.com/color/48/000000/api-settings.png" width="40" title="APIs" />
-</div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasfcmelo&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-</div>
 
 ## 📫 Contato
 
 💬 **Vamos conversar sobre:** Automação, IA aplicada, desenvolvimento backend, projetos interessantes
 
-📧 **Email:** lucasfcmelo@gmail.com
+📧 **Email:** mathiasrebordao2020@gmail.com
 
 ⚡ **Disponível para:** Freelances, colaborações, projetos desafiadores
