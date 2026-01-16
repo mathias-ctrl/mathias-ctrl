@@ -8,9 +8,10 @@
         <a href="https://wa.me/5562999999999" target="_blank" rel="noopener noreferrer">
           <img src="https://img.shields.io/badge/WhatsApp-Conversar-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
         </a><br>
-        <a href="mailto:mathiasrebordao2020@gmail.com" target="_blank" rel="noopener noreferrer">
-          <img src="https://img.shields.io/badge/Gmail-enviar_email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-        </a>
+<div align="left"> 
+  
+    mathiasrebordao2020@gmail.com
+</div>
       </td>
     </tr>
   </table>
@@ -104,3 +105,5 @@
 </div>
 
 ###
+
+
