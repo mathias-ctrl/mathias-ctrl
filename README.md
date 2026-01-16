@@ -8,6 +8,10 @@
       </td>
       <td width="740">
         <strong>Sobre mim:</strong>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
         <ul>
           <li>Sou desenvolvedor backend focado em criar soluções práticas que automatizam processos e integram IA no dia a dia.</li>
           <li>Gosto de transformar problemas complexos em sistemas simples e funcionais.</li>
@@ -27,6 +31,10 @@
       </td>
       <td width="740">
         <strong>No que estou focado agora:</strong>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
         <ul>
           <li>Desenvolvendo pipelines de processamento documental com IA.</li>
           <li>Automatizando workflows com ferramentas low-code/no-code.</li>
