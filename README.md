@@ -1,15 +1,13 @@
 # Mathias Arruda | Backend Developer
 
 <div align="center">
-  <a href="https://linkedin.com/in/seu-linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/lucasfcmelo" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="37" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=flat" height="37" alt="whatsapp logo"  />
 </div>
 
-## 👋 Sobre Mim
+###
+
+<h3 align="left">👋 Sobre Mim</h3>
 
 Sou desenvolvedor backend focado em criar soluções práticas que automatizam processos e integram IA no dia a dia. Gosto de transformar problemas complexos em sistemas simples e funcionais.
 
@@ -18,37 +16,40 @@ Sou desenvolvedor backend focado em criar soluções práticas que automatizam p
 - Automatizando workflows com ferramentas low-code/no-code
 - Criando integrações entre diferentes APIs e serviços
 
-## 🛠️ Stack Principal
+###
 
-### **Desenvolvimento**
-<div align="left">
-  <img src="https://img.icons8.com/color/48/000000/python.png" width="40" title="Python" />
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" width="40" title="JavaScript" />
-  <img src="https://img.icons8.com/color/48/000000/fastapi.png" width="40" title="FastAPI" />
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" width="40" title="Postman" />
+<p align="left">Sou desenvolvedor backend focado em criar soluções práticas que automatizam processos e integram IA no dia a dia. Gosto de transformar problemas complexos em sistemas simples e funcionais.</p>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="38" alt="html5 logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="38" alt="css logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="38" alt="javascript logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="38" alt="python logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="38" alt="fastapi logo"  />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=supabase" height="38" alt="supabase logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="38" alt="postgresql logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="38" alt="mysql logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="38" alt="redis logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-plain.svg" height="38" alt="debian logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="38" alt="vscode logo"  />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=postman" height="38" alt="postman logo"  />
 </div>
 
-### **Bancos de Dados**
-<div align="left">
-  <img src="https://img.icons8.com/color/48/000000/postgreesql.png" width="40" title="PostgreSQL" />
-  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" width="40" title="MySQL" />
-  <img src="https://img.icons8.com/color/48/000000/supabase.png" width="40" title="Supabase" />
-  <img src="https://img.icons8.com/color/48/000000/redis.png" width="40" title="Redis" />
-</div>
-
-### **Automação & Ferramentas**
-<div align="left">
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" width="40" title="VS Code" />
-  <img src="https://img.icons8.com/color/48/000000/n8n.png" width="40" title="n8n" />
-  <img src="https://img.icons8.com/color/48/000000/docker.png" width="40" title="Docker" />
-</div>
-
-
-
-## 📫 Contato
-
-💬 **Vamos conversar sobre:** Automação, IA aplicada, desenvolvimento backend, projetos interessantes
-
-📧 **Email:** mathiasrebordao2020@gmail.com
-
-⚡ **Disponível para:** Freelances, colaborações, projetos desafiadores
+###
